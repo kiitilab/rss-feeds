@@ -13,7 +13,7 @@
       <link>https://anthropic.com/news/feed_anthropic.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jun 2025 09:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 10:28:30 +0000</lastBuildDate>
     <item>
       <title>Anthropic raises $124 million to build more reliable, general AI systems</title>
       <link>https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems</link>
@@ -1045,6 +1045,14 @@
       <guid isPermaLink="false">https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust</guid>
       <category>Announcements</category>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</title>
+      <link>https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</link>
+      <description>Claude in Amazon Bedrock: Approved for Use in FedRAMP High and DoD IL4/5 Workloads</description>
+      <guid isPermaLink="false">https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high</guid>
+      <category>Announcements</category>
+      <pubDate>Wed, 11 Jun 2025 10:28:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
