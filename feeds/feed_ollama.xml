@@ -13,7 +13,7 @@
       <link>https://ollama.com/blog/feed_ollama.xml</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Oct 2025 11:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 12:55:02 +0000</lastBuildDate>
     <item>
       <title>Run Llama 2 uncensored locally</title>
       <link>https://ollama.com/blog/run-llama2-uncensored-locally</link>
@@ -286,6 +286,13 @@
       <description>MiniMax M2 is now available on Ollama's cloud. It's a model built for coding and agentic workflows.</description>
       <guid isPermaLink="false">https://ollama.com/blog/minimax-m2</guid>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenAI gpt-oss-safeguard</title>
+      <link>https://ollama.com/blog/gpt-oss-safeguard</link>
+      <description>Ollama is partnering with OpenAI and ROOST (Robust Open Online Safety Tools) to bring the latest gpt-oss-safeguard reasoning models to users for safety classification tasks. gpt-oss-safeguard models are available in two sizes: 20B and 120B, and are permissively licensed under the Apache 2.0 license.</description>
+      <guid isPermaLink="false">https://ollama.com/blog/gpt-oss-safeguard</guid>
+      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
